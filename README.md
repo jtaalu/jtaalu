@@ -1,3 +1,7 @@
+# Título
+
+## Sección 1 Sobre mi...
+
 - 👋 Hola, soy Jesús, estudiante de murciaeduca
 - 👀 Interesado en aprender markdown
 - 🌱 I’m currently learning lenguajes de marcas
@@ -6,7 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-jtaalu/jtaalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Sección 2
